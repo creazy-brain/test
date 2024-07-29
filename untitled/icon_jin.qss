@@ -1,0 +1,6 @@
+QPushButton {
+    border:none;
+    border-radius:8px;
+    background-color:rgba(180, 180, 180, 0);
+    border-image:url(:/resource/image/Coin0001.png);
+}

@@ -1,0 +1,7 @@
+QPushButton {
+    font:9pt "华文彩云";
+    border:none;
+    border-radius:8px;
+    background-color:rgba(180, 180, 180, 0);
+    border-image:url(:/resource/image/BackButton.png);
+}

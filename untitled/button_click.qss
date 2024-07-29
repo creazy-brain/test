@@ -1,0 +1,7 @@
+QPushButton {
+    font: 9pt;
+    border:none;
+    border-radius:8px;
+    background-color:rgba(180, 180, 180, 0s);
+    border-image:url(:/resource/image/LevelIcon.png);
+}
